@@ -11,7 +11,7 @@
 ![qrcode_for_gh_e3b954bd3859_258](https://github.com/user-attachments/assets/d8f068d9-c4f8-46c7-914c-fbcab5d52f2a)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-0.1.0-black.svg)]()
+[![Version](https://img.shields.io/badge/version-0.1.1-black.svg)]()
 [![Codex CLI](https://img.shields.io/badge/Codex-CLI-orange.svg)](https://github.com/openai/codex)
 
 **25个电商场景模板 | 智能模板匹配 | 参考图一致性 | 反AI感处理**
@@ -23,6 +23,11 @@
 ---
 
 ## 项目简介
+
+gpt-image2-ecommerce 是由 buluslan（公众号：新西楼.AI）研发的电商 AI 做图 Skill，他会用 GPT-Image-2 按电商场景一键出图——主图、A+、社媒帖 25 套场景模板开箱即用，说人话就能出外贸级素材，告别设计师排期。
+
+> [!TIP]
+> **更多跨境电商 AI 实战内容，请关注公众号「新西楼.AI」**
 
 E-Commerce Image Generator 是一款基于 GPT-Image-2 的电商素材图片生成工具，通过 Codex CLI 调用生图能力。内置 **25 个专业电商场景的结构化提示词模板**，用自然语言描述需求即可自动匹配模板并生成高质量素材图。
 
